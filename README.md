@@ -10,7 +10,7 @@ And here screenshots of the dashboard
 ![2022-06-09_153225](https://user-images.githubusercontent.com/77818119/172859746-da5b4a5b-1045-47e7-a526-91eef186ce8d.png)
 ![2022-06-09_153059](https://user-images.githubusercontent.com/77818119/172859791-bafc3e0e-86e1-427b-931a-9da6aa13e095.png)
 
-screenshots while interactive:
+## screenshots while interaction:
 
 ![2022-06-09_153023](https://user-images.githubusercontent.com/77818119/172859956-d200bcf9-0f9e-4246-8cc1-5cfcdec49bc3.png)
 ![2022-06-09_153207](https://user-images.githubusercontent.com/77818119/172859933-18ee45b9-e103-4fd0-b6ac-bf86a6ba4990.png)
